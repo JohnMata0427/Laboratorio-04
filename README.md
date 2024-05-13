@@ -1,4 +1,4 @@
-<h1 align="center"> Objetos y Arreglos en JavaScript </h1>
+<h1 align="center"><img width="35px" src="https://github.com/JohnMata0427/Laboratorio-03/assets/150484680/00c430b5-fd78-43b7-a8a9-32fe77a58a4f" alt="JavaScript Logo"> Objetos y Arreglos en JavaScript <img width="35px" src="https://github.com/JohnMata0427/Laboratorio-03/assets/150484680/00c430b5-fd78-43b7-a8a9-32fe77a58a4f" alt="JavaScript Logo"></h1>
 <p align="center"> Sitio web base para los datos (ficticios): https://www.amazon.com/ 🛒 </p>
 
 ![image](https://github.com/JohnMata0427/Laboratorio-04/assets/150484680/b42b87b7-866f-4522-9965-2f66f2fa95b6)
